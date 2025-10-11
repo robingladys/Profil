@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-11T12:24:36.661Z",
+  "last_updated": "2025-10-11T12:45:46.175Z",
   "profiles": {
     "claudia": {
       "image": "https://pbs.twimg.com/media/G2wNtTkWYAAMPMf?format=jpg&name=large",
@@ -40,10 +40,6 @@
     "isabella": {
       "image": "https://i.imgur.com/bcd890.webp",
       "title": "Isabella wants to play! 🎮<br>Let's make something fun"
-    },
-    "Casandra": {
-      "image": "https://pbs.twimg.com/media/G2wNtTkWYAAMPMf?format=jpg&name=large",
-      "title": "Casandra is waiting for you! 😊<br>Let's make something fun"
     }
   }
 }
