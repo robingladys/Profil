@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-11T17:25:58.770Z",
+  "last_updated": "2025-10-11T17:26:14.331Z",
   "profiles": {
     "claudia": {
       "image": "https://ik.imagekit.io/1un2rpk3n/gambar2.jpg",
@@ -8,6 +8,10 @@
     "andini": {
       "image": "https://ik.imagekit.io/1un2rpk3n/gambar1.jpg?updatedAt=1706845415461",
       "title": "See what I’m showing off 💋<br>Let's make something fun"
+    },
+    "karlotta": {
+      "image": "https://pbs.twimg.com/media/GdQw9mnWMAAlVuB?format=jpg&name=large",
+      "title": "Come see what u could enjoy 💦<br>Let's make something fun"
     }
   }
 }
