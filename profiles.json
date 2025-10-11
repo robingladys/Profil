@@ -1,9 +1,13 @@
 {
-  "last_updated": "2025-10-11T13:30:52.325Z",
+  "last_updated": "2025-10-11T13:36:51.857Z",
   "profiles": {
     "claudia": {
       "image": "https://ik.imagekit.io/1un2rpk3n/gambar2.jpg",
       "title": "Claudia onlines now<br>Let's make something fun"
+    },
+    "andini": {
+      "image": "https://ik.imagekit.io/1un2rpk3n/gambar1.jpg?updatedAt=1706845415461",
+      "title": "See what I’m showing off 💋<br>Let's make something fun"
     }
   }
 }
