@@ -1,4 +1,9 @@
 {
-  "last_updated": "2025-10-11T13:20:04.286Z",
-  "profiles": {}
+  "last_updated": "2025-10-11T13:30:48.388Z",
+  "profiles": {
+    "claudia": {
+      "image": "https://ik.imagekit.io/1un2rpk3n/gambar2.jpg",
+      "title": "Claudia onlines now<br>Let's make something fun"
+    }
+  }
 }
