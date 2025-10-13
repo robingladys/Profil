@@ -37,6 +37,13 @@
           "email": "abigaillopez@gmail2.gq",
           "twofa": "GMWX HUS5 ZC5R QAPD 2DPC SEBL RMUN VXQG",
           "createdAt": "2025-10-13T19:48:23.877Z"
+        },
+        {
+          "username": "antoniaflores942",
+          "password": "semut2",
+          "email": "antoniaflores@gmail2.gq",
+          "twofa": "",
+          "createdAt": "2025-10-13T19:54:33.034Z"
         }
       ]
     }
