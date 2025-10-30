@@ -11,13 +11,6 @@
           "createdAt": "2025-10-13T18:54:20.043Z"
         },
         {
-          "username": "linabecker881",
-          "password": "semut2",
-          "email": "linabecker@gmail2.gq",
-          "twofa": "BFYK FVRT 2YKT TXK3 KMZO 6QDG 3WZF MHTR",
-          "createdAt": "2025-10-13T19:15:37.950Z"
-        },
-        {
           "username": "averytaylor241",
           "password": "semut2",
           "email": "averytaylor@gmail2.gq",
@@ -347,5 +340,5 @@
       "data": []
     }
   },
-  "currentSheet": "Sheet5"
+  "currentSheet": "Sheet1"
 }
