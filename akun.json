@@ -2,15 +2,7 @@
   "sheets": {
     "Sheet1": {
       "name": "Sheet1",
-      "data": [
-        {
-          "username": "beatrizacosta265",
-          "password": "semut2",
-          "email": "beatrizacosta@gmail2.gq",
-          "twofa": "F5AB CIYR 7ND7 SEWV 4IFN 2WJX SPIN 67MA",
-          "createdAt": "2025-10-13T20:08:30.720Z"
-        }
-      ]
+      "data": []
     },
     "Sheet2": {
       "name": "Sheet2",
