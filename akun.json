@@ -4,13 +4,6 @@
       "name": "Sheet1",
       "data": [
         {
-          "username": "averytaylor241",
-          "password": "semut2",
-          "email": "averytaylor@gmail2.gq",
-          "twofa": "Z334 6WPO 7BPZ OBBO 2SLZ PCM3 MFIJ 2SJ2",
-          "createdAt": "2025-10-13T19:35:10.126Z"
-        },
-        {
           "username": "abigaillop_ez",
           "password": "semut2",
           "email": "abigaillopez@gmail2.gq",
@@ -416,5 +409,5 @@
       ]
     }
   },
-  "currentSheet": "Sheet3"
+  "currentSheet": "Sheet1"
 }
