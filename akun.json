@@ -1,9 +1,5 @@
 {
   "sheets": {
-    "Sheet1": {
-      "name": "Sheet1",
-      "data": []
-    },
     "Sheet2": {
       "name": "Sheet2",
       "data": [
@@ -380,5 +376,5 @@
       ]
     }
   },
-  "currentSheet": "Sheet1"
+  "currentSheet": "Sheet2"
 }
