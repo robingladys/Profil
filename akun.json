@@ -42,13 +42,6 @@
           "email": "janisnoelle@gmail2.gq",
           "twofa": "JSYT LPHF 7QML V2SF A22T 6HRH 244C 4UXB",
           "createdAt": "2025-10-23T19:27:07.256Z"
-        },
-        {
-          "username": "LelaJody_",
-          "password": "semut2",
-          "email": "lelajody@gmail2.gq",
-          "twofa": "7X5J BGWB 2JX5 TV37 NIHW PLH5 BOHP E4TX",
-          "createdAt": "2025-10-23T19:32:22.479Z"
         }
       ]
     },
@@ -348,5 +341,5 @@
       ]
     }
   },
-  "currentSheet": "Sheet2"
+  "currentSheet": "Sheet3"
 }
