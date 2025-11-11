@@ -342,7 +342,15 @@
     },
     "anu": {
       "name": "anu",
-      "data": []
+      "data": [
+        {
+          "username": "leighreyna_",
+          "password": "semut2",
+          "email": "leighreyna@gmail2.gq",
+          "twofa": "LYW6 6XSK Z5SG RXOC GLAP EZMP OQQF FGAJ",
+          "createdAt": "2025-11-11T09:32:42.017Z"
+        }
+      ]
     }
   },
   "currentSheet": "anu"
