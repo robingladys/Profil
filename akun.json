@@ -243,13 +243,6 @@
           "createdAt": "2025-11-02T06:04:25.042Z"
         },
         {
-          "username": "mild.redamber109",
-          "password": "semut2",
-          "email": "MildredAmber109@gmail2.gq",
-          "twofa": "C2AO 2GQP IFOF 5ZBJ AXYE ESTW LTII YPHF",
-          "createdAt": "2025-11-02T06:56:32.897Z"
-        },
-        {
           "username": "jaclynclaire365",
           "password": "semut2",
           "email": "JaclynClaire365@gmail2.gq",
@@ -353,5 +346,5 @@
       ]
     }
   },
-  "currentSheet": "anu"
+  "currentSheet": "Sheet5"
 }
