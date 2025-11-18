@@ -149,6 +149,13 @@
           "email": "JacquelynShana51@gmail2.gq",
           "twofa": "2C3O YFF4 T6PC LYWG 66EO XGMY YWMO SZIN",
           "createdAt": "2025-11-17T22:19:38.794Z"
+        },
+        {
+          "username": "trishaerin741",
+          "password": "semut2",
+          "email": "TrishaErin741@gmail2.gq",
+          "twofa": "2WIR BCVO EBSL CEPR 6ATX 2CNU AL32 PVDT",
+          "createdAt": "2025-11-18T07:22:06.293Z"
         }
       ]
     },
@@ -514,5 +521,5 @@
       ]
     }
   },
-  "currentSheet": "Sheet4"
+  "currentSheet": "Sheet2"
 }
