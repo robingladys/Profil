@@ -13,7 +13,14 @@
       "category": "fashion",
       "link": "https://example.com/produk2",
       "description": "Deskripsi produk sample 2"
+    },
+    {
+      "number": "003",
+      "name": "Tes",
+      "category": "elektronik",
+      "link": "https://ik.imagekit.io/24love/link.html",
+      "description": "Hola amor , te sigo pero tu a mi no 😌 por lo menos toca el corazoncito ❤️"
     }
   ],
-  "lastUpdated": "2025-12-07T04:12:47.113Z"
+  "lastUpdated": "2025-12-07T04:20:57.946Z"
 }
