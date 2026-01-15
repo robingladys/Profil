@@ -639,6 +639,13 @@
           "email": "caitlinvanessa603@gmail2.gq",
           "twofa": "VI37 FWPX RRV7 G6BQ WDDR 2SKW N5OM LCSH",
           "createdAt": "2026-01-15T11:38:37.129Z"
+        },
+        {
+          "username": "lbartysheva",
+          "password": "semut2",
+          "email": "lbartysheva@gmail2.gq",
+          "twofa": "",
+          "createdAt": "2026-01-15T13:49:02.824Z"
         }
       ]
     }
