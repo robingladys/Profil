@@ -817,6 +817,13 @@
           "email": "catalinaprats@gmail2.gq",
           "twofa": "HKTP QKVG HJ3T UXSG Y2BR KTRL Z4BJ XTEJ",
           "createdAt": "2026-02-16T14:25:42.380Z"
+        },
+        {
+          "username": "arnalalexia",
+          "password": "semut2",
+          "email": "alexiaarnal@gmail2.gq",
+          "twofa": "",
+          "createdAt": "2026-02-16T14:32:53.091Z"
         }
       ]
     }
