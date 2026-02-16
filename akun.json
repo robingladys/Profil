@@ -831,6 +831,13 @@
           "email": "bellaillescas@gmail2.gq",
           "twofa": "2N4R YC2A AAU7 5PIA GLVS TNRE TYNW DKUV",
           "createdAt": "2026-02-16T15:18:52.270Z"
+        },
+        {
+          "username": "estela.pliego",
+          "password": "semut2",
+          "email": "estelapliego@gmail2.gq",
+          "twofa": "B2RM 5NWM W7DV RGPJ YUI3 4C4J QPUN MLDF",
+          "createdAt": "2026-02-16T15:21:48.016Z"
         }
       ]
     }
