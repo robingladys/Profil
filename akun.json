@@ -1,59 +1,5 @@
 {
   "sheets": {
-    "anu": {
-      "name": "anu",
-      "data": [
-        {
-          "username": "leighreyna_",
-          "password": "semut2",
-          "email": "leighreyna@gmail2.gq",
-          "twofa": "LYW6 6XSK Z5SG RXOC GLAP EZMP OQQF FGAJ",
-          "createdAt": "2025-11-11T09:32:42.017Z"
-        },
-        {
-          "username": "nevakarla426",
-          "password": "semut2",
-          "email": "NevaKarla426@gmail2.gq",
-          "twofa": "HFDY UYY6 MULY V6OS WKYO 6SAS YLXP 3J7T",
-          "createdAt": "2025-11-18T23:47:36.844Z"
-        },
-        {
-          "username": "kathryntheresa752",
-          "password": "semut2",
-          "email": "KathrynTheresa752@gmail2.gq",
-          "twofa": "R2HB PMBS 67PU QSOI EFNQ YQCX 475B VHKK",
-          "createdAt": "2025-11-19T00:40:49.118Z"
-        },
-        {
-          "username": "petramuriel337",
-          "password": "semut2",
-          "email": "PetraMuriel337@gmail2.gq",
-          "twofa": "JXVR KVWB TCZI SDWQ WBOF XYJ7 X3YU Z73M",
-          "createdAt": "2025-11-19T00:46:03.917Z"
-        },
-        {
-          "username": "alisalindsey471",
-          "password": "semut2",
-          "email": "AlisaLindsey471@gmail2.gq",
-          "twofa": "6J6J GMQO AKES PJZ3 RGN5 EWYP LYPS QVG5",
-          "createdAt": "2025-11-19T00:56:53.315Z"
-        },
-        {
-          "username": "allisonfannie133",
-          "password": "semut2",
-          "email": "AllisonFannie133@gmail2.gq",
-          "twofa": "GNZQ 52NY UV3T BPAN KXIP TK64 I6TC YAYP",
-          "createdAt": "2025-11-19T01:02:13.547Z"
-        },
-        {
-          "username": "mattiediana813",
-          "password": "semut2",
-          "email": "MattieDiana813@gmail2.gq",
-          "twofa": "IPQP U5MV 3S73 NXLK ZFL7 TSE5 NC4T YDRX",
-          "createdAt": "2025-11-19T01:06:10.843Z"
-        }
-      ]
-    },
     "21-11": {
       "name": "21-11",
       "data": [
@@ -334,5 +280,5 @@
       ]
     }
   },
-  "currentSheet": "anu"
+  "currentSheet": "21-11"
 }
