@@ -1,38 +1,5 @@
 {
   "sheets": {
-    "21-11": {
-      "name": "21-11",
-      "data": [
-        {
-          "username": "virginiamartha814",
-          "password": "semut2",
-          "email": "VirginiaMartha814@gmail2.gq",
-          "twofa": "S2OP CHV6 6USN JPQD AHTS AM6R PRAK JPJV",
-          "createdAt": "2025-11-21T06:13:59.229Z"
-        },
-        {
-          "username": "katepamela505",
-          "password": "semut2",
-          "email": "KatePamela505@gmail2.gq",
-          "twofa": "",
-          "createdAt": "2025-11-21T06:25:03.676Z"
-        },
-        {
-          "username": "emilyhallxx2",
-          "password": "semut2",
-          "email": "emilyhallxx2@gmail2.gq",
-          "twofa": "XWQW SFAZ F7YP FR3W PVW6 OC7U QQBH 7X3R",
-          "createdAt": "2025-12-14T09:38:17.650Z"
-        },
-        {
-          "username": "elainacarver2025",
-          "password": "semut2",
-          "email": "elainacarver@gmail2.gq",
-          "twofa": "AQOC HZQ5 XKJU M3UT RWRJ 64CW 3UQC RKFK",
-          "createdAt": "2025-12-20T22:49:35.180Z"
-        }
-      ]
-    },
     "Januari2026": {
       "name": "Januari2026",
       "data": [
@@ -280,5 +247,5 @@
       ]
     }
   },
-  "currentSheet": "21-11"
+  "currentSheet": "Januari2026"
 }
