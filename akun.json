@@ -1,38 +1,5 @@
 {
   "sheets": {
-    "Sheet5": {
-      "name": "Sheet5",
-      "data": [
-        {
-          "username": "evelynfaye283",
-          "password": "semut2",
-          "email": "evelynfaye283@gmail2.gq",
-          "twofa": "NHC4 XGCO KOZE 6X5R GIIO KFVL VMTA GDV3",
-          "createdAt": "2025-11-02T06:04:25.042Z"
-        },
-        {
-          "username": "jaclynclaire365",
-          "password": "semut2",
-          "email": "JaclynClaire365@gmail2.gq",
-          "twofa": "C3YB 5WAC 7WVM LKDL Z6ZR LFNN I3H5 IYWB",
-          "createdAt": "2025-11-02T08:07:31.436Z"
-        },
-        {
-          "username": "britneynorma438",
-          "password": "semut2",
-          "email": "BritneyNorma438@gmail2.gq",
-          "twofa": "AMUN XBKJ 7M5M 4PQJ UHQ2 PNX3 P6RY 7T4N",
-          "createdAt": "2025-11-02T08:19:15.500Z"
-        },
-        {
-          "username": "angustiascloe",
-          "password": "semut2",
-          "email": "angustiascloe@gmail2.gq",
-          "twofa": "",
-          "createdAt": "2025-11-03T18:39:10.537Z"
-        }
-      ]
-    },
     "ngetest": {
       "name": "ngetest",
       "data": [
@@ -435,5 +402,5 @@
       ]
     }
   },
-  "currentSheet": "Sheet5"
+  "currentSheet": "ngetest"
 }
