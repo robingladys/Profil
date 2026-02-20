@@ -1,72 +1,8 @@
 {
   "sheets": {
-    "27-1-2026": {
-      "name": "27-1-2026",
-      "data": [
-        {
-          "username": "andreamargarita382",
-          "password": "semut2",
-          "email": "andreamargarita382@gmail2.gq",
-          "twofa": "PL3O FIVL GM6K 3M3B 67ST PZPV OKA7 VDUG",
-          "createdAt": "2026-01-27T08:29:24.647Z"
-        },
-        {
-          "username": "dorispam998",
-          "password": "semut2",
-          "email": "dorispam998@gmail2.gq",
-          "twofa": "V62O KAQU 4G6T TQDQ 3LDQ AFYD 5PNM BBBL",
-          "createdAt": "2026-01-27T08:37:01.536Z"
-        },
-        {
-          "username": "grudnickayaolga@gmail2.gq",
-          "password": "semut2",
-          "email": "grudnickayaolga@gmail2.gq",
-          "twofa": "",
-          "createdAt": "2026-01-28T11:17:02.737Z"
-        },
-        {
-          "username": "car_olinavalerio",
-          "password": "semut2",
-          "email": "carolinavalerio@gmail2.gq",
-          "twofa": "5SME AJB3 DOIS L3OP VDOJ 5NPC MAFN K6OJ",
-          "createdAt": "2026-02-13T21:51:36.275Z"
-        },
-        {
-          "username": "gisbert_alicia",
-          "password": "semut2",
-          "email": "aliciagisbert@gmail2.gq",
-          "twofa": "W5TS 7USX RASZ P3LH 4AJS 56M6 E4TA Q7CX",
-          "createdAt": "2026-02-13T21:55:24.698Z"
-        },
-        {
-          "username": "agustinacotilla",
-          "password": "semut2",
-          "email": "agustinacotilla@gmail2.gq",
-          "twofa": "XBIS YDAG P4AB ZJUL EEB4 MDNO CQ4G FAQE",
-          "createdAt": "2026-02-16T08:17:09.797Z"
-        },
-        {
-          "username": "silvanayepes2026",
-          "password": "semut2",
-          "email": "silvanayepes@gmail2.gq",
-          "twofa": "UMS4 PIR3 VDRD IFEA EELY QGHT NQQP G3LZ",
-          "createdAt": "2026-02-16T09:19:49.732Z"
-        },
-        {
-          "username": "isabelpliego2026",
-          "password": "semut2",
-          "email": "isabelpliego@gmail2.gq",
-          "twofa": "4RLE E5E7 CNQ6 I5QL 4VOE 3DNP ZGGK PWXA",
-          "createdAt": "2026-02-16T10:01:27.302Z"
-        },
-        {
-          "username": "nina_tassis",
-          "password": "semut2",
-          "email": "ninatassis@gmail2.gq",
-          "twofa": "VLEA 3LDQ WP5K UDO5 O5O4 S6DJ SZMW TUQ7",
-          "createdAt": "2026-02-16T10:22:01.135Z"
-        }
-      ]
+    "1": {
+      "name": "1",
+      "data": []
     },
     "Auto setup": {
       "name": "Auto setup",
@@ -165,5 +101,5 @@
       ]
     }
   },
-  "currentSheet": "27-1-2026"
+  "currentSheet": "1"
 }
