@@ -1,87 +1,5 @@
 {
   "sheets": {
-    "Januari2026": {
-      "name": "Januari2026",
-      "data": [
-        {
-          "username": "normagina382",
-          "password": "semut2",
-          "email": "normagina382@gmail2.gq",
-          "twofa": "NOUF 6NC5 WWDD JO6B ZUMW 3E3A VVSM SCCC",
-          "createdAt": "2026-01-15T11:33:26.375Z"
-        },
-        {
-          "username": "madelinejane528",
-          "password": "semut2",
-          "email": "madelinejane528@gmail2.gq",
-          "twofa": "WMGJ WYPH VWYV RO5B TDIM UCMV 4UQE LKBS",
-          "createdAt": "2026-01-15T11:36:54.046Z"
-        },
-        {
-          "username": "caitlinvanessa603",
-          "password": "semut2",
-          "email": "caitlinvanessa603@gmail2.gq",
-          "twofa": "VI37 FWPX RRV7 G6BQ WDDR 2SKW N5OM LCSH",
-          "createdAt": "2026-01-15T11:38:37.129Z"
-        },
-        {
-          "username": "lbartysheva",
-          "password": "semut2",
-          "email": "lbartysheva@gmail2.gq",
-          "twofa": "BAT7 EJQU JWSL JUEC 4DQC FKDB S67U HAVZ",
-          "createdAt": "2026-01-15T13:49:02.824Z"
-        },
-        {
-          "username": "tracieella254",
-          "password": "semut2",
-          "email": "tracieella254@gmail2.gq",
-          "twofa": "",
-          "createdAt": "2026-01-15T15:56:48.995Z"
-        },
-        {
-          "username": "dianebessie465",
-          "password": "semut2",
-          "email": "dianebessie465@gmail2.gq",
-          "twofa": "",
-          "createdAt": "2026-01-16T02:58:52.976Z"
-        },
-        {
-          "username": "marianfrances869",
-          "password": "semut2",
-          "email": "marianfrances869@gmail2.gq",
-          "twofa": "",
-          "createdAt": "2026-01-18T19:21:59.521Z"
-        },
-        {
-          "username": "lorettarosalie124",
-          "password": "semut2",
-          "email": "lorettarosalie124@gmail2.gq",
-          "twofa": "",
-          "createdAt": "2026-01-19T05:09:58.574Z"
-        },
-        {
-          "username": "patsysharon97",
-          "password": "semut2",
-          "email": "patsysharon97@gmail2.gq",
-          "twofa": "",
-          "createdAt": "2026-01-19T05:35:44.307Z"
-        },
-        {
-          "username": "yvettesuzanne644",
-          "password": "semut2",
-          "email": "yvettesuzanne644@gmail2.gq",
-          "twofa": "",
-          "createdAt": "2026-01-21T07:03:37.561Z"
-        },
-        {
-          "username": "evaar_royo20",
-          "password": "semut2",
-          "email": "evaarroyo@gmail2.gq",
-          "twofa": "",
-          "createdAt": "2026-01-23T15:59:09.532Z"
-        }
-      ]
-    },
     "27-1-2026": {
       "name": "27-1-2026",
       "data": [
@@ -247,5 +165,5 @@
       ]
     }
   },
-  "currentSheet": "Januari2026"
+  "currentSheet": "27-1-2026"
 }
