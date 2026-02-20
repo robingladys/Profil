@@ -1,73 +1,5 @@
 {
   "sheets": {
-    "ngetest": {
-      "name": "ngetest",
-      "data": [
-        {
-          "username": "angelasabrina78",
-          "password": "semut2",
-          "email": "angelasabrina78@gmail2.gq",
-          "twofa": "4MPN Y4E5 Y2I4 DTOE JFPF 5ZLM 3H7G Y6T6",
-          "createdAt": "2025-11-05T18:26:52.044Z"
-        },
-        {
-          "username": "sony.akirsten626",
-          "password": "semut2",
-          "email": "SonyaKirsten626@gmail2.gq",
-          "twofa": "EV3P 4UDY ETM6 BH2O 2AEE ECVS DZQ7 CLUY",
-          "createdAt": "2025-11-05T18:46:10.970Z"
-        },
-        {
-          "username": "sybi.ljennie818",
-          "password": "semut2",
-          "email": "SybilJennie818@gmail2.gq",
-          "twofa": "QAPB 4YGL G7H7 47E5 5SUH Y74J JVM4 HKC3",
-          "createdAt": "2025-11-05T19:06:03.986Z"
-        },
-        {
-          "username": "cami.lletheresa798",
-          "password": "semut2",
-          "email": "CamilleTheresa798@gmail2.gq",
-          "twofa": "K3XT P4DX AQWR DGFC B24O E6RT 5PHB 2LSG",
-          "createdAt": "2025-11-05T19:41:39.245Z"
-        },
-        {
-          "username": "kris.tacaroline673",
-          "password": "semut2",
-          "email": "KristaCaroline673@gmail2.gq",
-          "twofa": "YG75 G7SE S6X2 65GL DHR7 3A2Q P3DC DNOK",
-          "createdAt": "2025-11-05T19:56:14.827Z"
-        },
-        {
-          "username": "magg.iepetra564",
-          "password": "semut2",
-          "email": "MaggiePetra564@gmail2.gq",
-          "twofa": "QDXX 3MOJ DSFB NJAM LCUO FQ2Y HOVC KVRY",
-          "createdAt": "2025-11-06T00:32:59.624Z"
-        },
-        {
-          "username": "judyjames994",
-          "password": "semut2",
-          "email": "JudyJames994@gmail2.gq",
-          "twofa": "C5G5 GHIZ 6NDZ 2GG7 JDO4 P7EC 24PX D6XM",
-          "createdAt": "2025-11-06T00:58:48.455Z"
-        },
-        {
-          "username": "adelakeisha503",
-          "password": "semut2",
-          "email": "AdelaKeisha503@gmail2.gq",
-          "twofa": "",
-          "createdAt": "2025-11-06T01:53:10.102Z"
-        },
-        {
-          "username": "maekathy387",
-          "password": "semut2",
-          "email": "MaeKathy387@gmail2.gq",
-          "twofa": "",
-          "createdAt": "2025-11-06T01:59:41.093Z"
-        }
-      ]
-    },
     "anu": {
       "name": "anu",
       "data": [
@@ -402,5 +334,5 @@
       ]
     }
   },
-  "currentSheet": "ngetest"
+  "currentSheet": "anu"
 }
