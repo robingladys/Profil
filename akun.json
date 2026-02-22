@@ -14,15 +14,7 @@
     },
     "2": {
       "name": "2",
-      "data": [
-        {
-          "username": "madeleine.virgie",
-          "password": "semut2",
-          "email": "madeleinevirgie@gmail2.gq",
-          "twofa": "DW6K C3BW T5TA V6MH AHNW PHMT 3IWP HIVH",
-          "createdAt": "2026-02-21T19:55:58.203Z"
-        }
-      ]
+      "data": []
     }
   },
   "currentSheet": "2"
