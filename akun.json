@@ -131,20 +131,6 @@
           "email": "sofiadana@gmail2.gq",
           "twofa": "ATFP A2QX BOPM 6HL7 MCOI L3OX H7G5 66DF",
           "createdAt": "2026-02-23T03:19:50.374Z"
-        },
-        {
-          "username": "tamar.akate",
-          "password": "semut2",
-          "email": "tamarakate@gmail2.gq",
-          "twofa": "N4TY 5IE4 H2AI QYOP BXBK E6BZ L3WO IS2W",
-          "createdAt": "2026-02-23T04:39:55.184Z"
-        },
-        {
-          "username": "grac_iemolly",
-          "password": "semut2",
-          "email": "graciemolly@gmail2.gq",
-          "twofa": "S7RD 34PS B6JI PEE7 4HUI PL6S 7XPT 5LGO",
-          "createdAt": "2026-02-23T04:44:14.905Z"
         }
       ]
     }
