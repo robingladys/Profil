@@ -140,13 +140,6 @@
           "createdAt": "2026-02-23T03:43:02.463Z"
         },
         {
-          "username": "dor.isshelly",
-          "password": "semut2",
-          "email": "dorisshelly@gmail2.gq",
-          "twofa": "DGDU FR55 JEON POOU V7R4 34LA STD5 SFBK",
-          "createdAt": "2026-02-23T04:28:25.953Z"
-        },
-        {
           "username": "tamar.akate",
           "password": "semut2",
           "email": "tamarakate@gmail2.gq",
@@ -170,5 +163,5 @@
       ]
     }
   },
-  "currentSheet": "2"
+  "currentSheet": "3"
 }
