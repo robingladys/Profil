@@ -9,13 +9,6 @@
           "email": "marquitadorothy@gmail2.gq",
           "twofa": "43YL GNP3 6CZE L4JW IF3E A5RU 5I3R 3S23",
           "createdAt": "2026-02-20T10:02:11.576Z"
-        },
-        {
-          "username": "marciaallison_",
-          "password": "semut2",
-          "email": "marciaallison@gmail2.gq",
-          "twofa": "BHQO PW5K LQJ5 UJRL VQHK GPCE IAAA FZ6O",
-          "createdAt": "2026-02-23T03:04:53.678Z"
         }
       ]
     },
@@ -124,16 +117,8 @@
     },
     "3": {
       "name": "3",
-      "data": [
-        {
-          "username": "sofiadana22",
-          "password": "semut2",
-          "email": "sofiadana@gmail2.gq",
-          "twofa": "ATFP A2QX BOPM 6HL7 MCOI L3OX H7G5 66DF",
-          "createdAt": "2026-02-23T03:19:50.374Z"
-        }
-      ]
+      "data": []
     }
   },
-  "currentSheet": "3"
+  "currentSheet": "1"
 }
