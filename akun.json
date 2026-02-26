@@ -23,13 +23,6 @@
       "name": "2",
       "data": [
         {
-          "username": "ettam_arsha",
-          "password": "semut2",
-          "email": "crystalcelina@gmail2.gq",
-          "twofa": "ZGUR M6MB ZCHX MLGH XFPN 3RHR EF7I 7HC3",
-          "createdAt": "2026-02-22T02:45:15.108Z"
-        },
-        {
           "username": "katy.estelle",
           "password": "semut2",
           "email": "katyestelle@gmail2.gq",
@@ -177,5 +170,5 @@
       ]
     }
   },
-  "currentSheet": "3"
+  "currentSheet": "2"
 }
