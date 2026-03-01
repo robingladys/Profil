@@ -6,7 +6,15 @@
     },
     "2": {
       "name": "2",
-      "data": []
+      "data": [
+        {
+          "username": "elisabet.seco",
+          "password": "semut2",
+          "email": "elisabetseco@gmail2.gq",
+          "twofa": "",
+          "createdAt": "2026-03-01T15:29:57.834Z"
+        }
+      ]
     },
     "3": {
       "name": "3",
