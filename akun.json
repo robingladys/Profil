@@ -11,13 +11,6 @@
           "createdAt": "2026-03-16T07:28:07.507Z"
         },
         {
-          "username": "jeri.dollie",
-          "password": "semut2",
-          "email": "jeridollie@gmail2.gq",
-          "twofa": "KZBT EVFZ 3RNP S6SQ PTGX HT57 5OHK 34LJ",
-          "createdAt": "2026-03-16T07:31:40.010Z"
-        },
-        {
           "username": "brittneyterrie__1996",
           "password": "semut2",
           "email": "brittneyterrie@gmail2.gq",
@@ -113,5 +106,5 @@
       "data": []
     }
   },
-  "currentSheet": "2"
+  "currentSheet": "1"
 }
