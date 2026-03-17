@@ -4,13 +4,6 @@
       "name": "1",
       "data": [
         {
-          "username": "rosemarie.trisha",
-          "password": "semut2",
-          "email": "rosemarietrisha@gmail2.gq",
-          "twofa": "BAFS 4VIE 6K2I MW4J PPXQ DP7M QWPD APSG",
-          "createdAt": "2026-03-16T07:28:07.507Z"
-        },
-        {
           "username": "myrtlechandra_1993",
           "password": "semut2",
           "email": "myrtlechandra@gmail2.gq",
@@ -127,5 +120,5 @@
       "data": []
     }
   },
-  "currentSheet": "2"
+  "currentSheet": "1"
 }
