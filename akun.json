@@ -98,15 +98,7 @@
     },
     "2": {
       "name": "2",
-      "data": [
-        {
-          "username": "coll_eenmorgan",
-          "password": "semut2",
-          "email": "colleenmorgan@gmail2.gq",
-          "twofa": "V3US I7NH WYVM 3WFK IDL2 5CUV DINS U4FX",
-          "createdAt": "2026-03-16T13:59:56.203Z"
-        }
-      ]
+      "data": []
     },
     "3": {
       "name": "3",
