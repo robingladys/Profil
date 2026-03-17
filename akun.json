@@ -11,13 +11,6 @@
           "createdAt": "2026-03-16T07:38:48.970Z"
         },
         {
-          "username": "deanavicky__1996",
-          "password": "semut2",
-          "email": "deanavicky@gmail2.gq",
-          "twofa": "6FAD 5PXY 2XMQ ZOI2 AP25 W2OV FPM7 23TC",
-          "createdAt": "2026-03-16T07:41:31.475Z"
-        },
-        {
           "username": "danafrieda__332",
           "password": "semut2",
           "email": "danafrieda@gmail2.gq",
@@ -113,5 +106,5 @@
       "data": []
     }
   },
-  "currentSheet": "2"
+  "currentSheet": "1"
 }
