@@ -84,20 +84,12 @@
     },
     "2": {
       "name": "2",
-      "data": [
-        {
-          "username": "kirsten.aimee",
-          "password": "semut2",
-          "email": "aimeekirsten@gmail2.gq",
-          "twofa": "IBAG DL65 R7PR AOQV 6MOO ZECX SPHR TPR3",
-          "createdAt": "2026-03-17T13:27:37.183Z"
-        }
-      ]
+      "data": []
     },
     "3": {
       "name": "3",
       "data": []
     }
   },
-  "currentSheet": "1"
+  "currentSheet": "2"
 }
