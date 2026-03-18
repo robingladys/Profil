@@ -101,15 +101,7 @@
     },
     "4": {
       "name": "4",
-      "data": [
-        {
-          "username": "luanntrisha_",
-          "password": "semut2",
-          "email": "luanntrisha@gmail2.gq",
-          "twofa": "67MR SQSR CZDR 43AS UIPO COTF 26AF QWXX",
-          "createdAt": "2026-03-18T13:04:22.135Z"
-        }
-      ]
+      "data": []
     }
   },
   "currentSheet": "4"
