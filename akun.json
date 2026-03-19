@@ -68,15 +68,7 @@
     },
     "3": {
       "name": "3",
-      "data": [
-        {
-          "username": "lorainekari_",
-          "password": "semut2",
-          "email": "lorainekari@gmail2.gq",
-          "twofa": "",
-          "createdAt": "2026-03-18T08:14:21.950Z"
-        }
-      ]
+      "data": []
     },
     "4": {
       "name": "4",
