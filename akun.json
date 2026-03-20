@@ -2,15 +2,7 @@
   "sheets": {
     "1": {
       "name": "1",
-      "data": [
-        {
-          "username": "gretchenrosa_",
-          "password": "semut2",
-          "email": "gretchenrosa@gmail2.gq",
-          "twofa": "KZCN PE56 C4UE VOJX BSUL DWVU 4DGM 3L3D",
-          "createdAt": "2026-03-20T06:58:48.916Z"
-        }
-      ]
+      "data": []
     },
     "2": {
       "name": "2",
