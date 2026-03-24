@@ -11,7 +11,11 @@
           "createdAt": "2026-03-23T21:09:47.750Z"
         }
       ]
+    },
+    "Sheet 2": {
+      "name": "Sheet 2",
+      "data": []
     }
   },
-  "currentSheet": "1"
+  "currentSheet": "Sheet 2"
 }
