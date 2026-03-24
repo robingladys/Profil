@@ -16,13 +16,6 @@
       "name": "3",
       "data": [
         {
-          "username": "rosellaangelita",
-          "password": "semut2",
-          "email": "angelitarosella@gmail2.gq",
-          "twofa": "BXPR T6SE O5PJ RRG5 ZWZH N7XK BBZ4 CMXK",
-          "createdAt": "2026-03-19T03:52:05.139Z"
-        },
-        {
           "username": "stefaniegale_",
           "password": "semut2",
           "email": "stefaniegale@gmail2.gq",
@@ -30,26 +23,7 @@
           "createdAt": "2026-03-19T04:21:50.611Z"
         }
       ]
-    },
-    "4": {
-      "name": "4",
-      "data": [
-        {
-          "username": "annabelle_melinda",
-          "password": "semut2",
-          "email": "annabellemelinda@gmail2.gq",
-          "twofa": "AFPP U7YX JRWW S3PB VNMH MZ4X N6PY VQXN",
-          "createdAt": "2026-03-19T00:09:46.775Z"
-        },
-        {
-          "username": "mable.maxine",
-          "password": "semut2",
-          "email": "maxinemable@gmail2.gq",
-          "twofa": "6QUI HEA5 XZNO 3JIR 2ZDL 32KQ GADJ 5X43",
-          "createdAt": "2026-03-19T00:25:52.944Z"
-        }
-      ]
     }
   },
-  "currentSheet": "4"
+  "currentSheet": "3"
 }
