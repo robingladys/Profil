@@ -35,13 +35,6 @@
       "name": "4",
       "data": [
         {
-          "username": "peggydolores_",
-          "password": "semut2",
-          "email": "peggydolores@gmail2.gq",
-          "twofa": "WF4K EOFY KYAM PE4G MADX 64WL IG4Y EQRD",
-          "createdAt": "2026-03-18T22:08:04.421Z"
-        },
-        {
           "username": "brittanyleslie_",
           "password": "semut2",
           "email": "brittanyleslie@gmail2.gq",
@@ -93,5 +86,5 @@
       ]
     }
   },
-  "currentSheet": "1"
+  "currentSheet": "4"
 }
