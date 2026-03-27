@@ -23,13 +23,6 @@
       "name": "Sheet 2",
       "data": [
         {
-          "username": "eulacarolina_",
-          "password": "semut2",
-          "email": "eulacarolina@gmail2.gq",
-          "twofa": "7Y4M QEI4 GFKT BIV2 WB75 K2PH ZTIX Y777",
-          "createdAt": "2026-03-26T21:02:15.476Z"
-        },
-        {
           "username": "auroraselma_",
           "password": "semut2",
           "email": "auroraselma@gmail2.gq",
@@ -210,5 +203,5 @@
       ]
     }
   },
-  "currentSheet": "sheet 4"
+  "currentSheet": "Sheet 2"
 }
