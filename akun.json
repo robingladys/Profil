@@ -19,67 +19,6 @@
         }
       ]
     },
-    "Sheet 2": {
-      "name": "Sheet 2",
-      "data": [
-        {
-          "username": "auroraselma_",
-          "password": "semut2",
-          "email": "auroraselma@gmail2.gq",
-          "twofa": "ZACC JXQB 5W4U MDJN FMHN G4XI 6O3P KA2K",
-          "createdAt": "2026-03-26T21:05:46.235Z"
-        },
-        {
-          "username": "alexandriacandice_",
-          "password": "semut2",
-          "email": "alexandriacandice@gmail2.gq",
-          "twofa": "DVHE V24W 5NIU LSYW HGKP XHIH 43ZG 3IYD",
-          "createdAt": "2026-03-26T21:07:36.979Z"
-        },
-        {
-          "username": "tammimattie_",
-          "password": "semut2",
-          "email": "tammimattie@gmail2.gq",
-          "twofa": "FT5V JZEN HWPN K6TO HACB 5AGM FMU4 BDUR",
-          "createdAt": "2026-03-26T21:10:07.317Z"
-        },
-        {
-          "username": "willabrianna_",
-          "password": "semut2",
-          "email": "willabrianna@gmail2.gq",
-          "twofa": "FJTU 6Q4M 7K2L VCXP LU6B ST6I VLY6 G6OM",
-          "createdAt": "2026-03-26T21:12:33.372Z"
-        },
-        {
-          "username": "marialaurie_",
-          "password": "semut2",
-          "email": "marialaurie@gmail2.gq",
-          "twofa": "3FIN Y4ZO LLQU WV42 KAZA ZL2R MTVW 2K7O",
-          "createdAt": "2026-03-26T21:15:44.300Z"
-        },
-        {
-          "username": "leannnelda_",
-          "password": "semut2",
-          "email": "leannnelda@gmail2.gq",
-          "twofa": "OZRD 6BRW 7Z4L 2IWF 7ZC5 KDWE 3BT2 EKVR",
-          "createdAt": "2026-03-26T21:19:26.980Z"
-        },
-        {
-          "username": "carolyntara_",
-          "password": "semut2",
-          "email": "carolyntara@gmail2.gq",
-          "twofa": "KKZW UNFW Y44J 4P7R Y6RU YCSX IOUS JPUE",
-          "createdAt": "2026-03-26T21:23:42.180Z"
-        },
-        {
-          "username": "flossiejan_",
-          "password": "semut2",
-          "email": "flossiejan@gmail2.gq",
-          "twofa": "6LET 6JFP 2BJN BI6M DLAN FXY3 WCAI Z33F",
-          "createdAt": "2026-03-26T21:25:39.276Z"
-        }
-      ]
-    },
     "sheet 3": {
       "name": "sheet 3",
       "data": [
@@ -203,5 +142,5 @@
       ]
     }
   },
-  "currentSheet": "Sheet 2"
+  "currentSheet": "1"
 }
