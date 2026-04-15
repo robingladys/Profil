@@ -11,19 +11,7 @@
           "createdAt": "2026-03-23T21:09:47.750Z"
         }
       ]
-    },
-    "2": {
-      "name": "2",
-      "data": [
-        {
-          "username": "dinajosefinaaugustahydrangea",
-          "password": "semut2",
-          "email": "dinajosefinaaugustahydran@gmail2.gq",
-          "twofa": "IJEI RBY2 4BXO 6VOA 5GYN ZMBO IFLP FI4N",
-          "createdAt": "2026-04-13T01:55:53.979Z"
-        }
-      ]
     }
   },
-  "currentSheet": "2"
+  "currentSheet": "1"
 }
