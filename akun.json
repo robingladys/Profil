@@ -2,15 +2,7 @@
   "sheets": {
     "1": {
       "name": "1",
-      "data": [
-        {
-          "username": "linaalexisebonyfuchsia",
-          "password": "semut2",
-          "email": "cgfsff10@gmail.com",
-          "twofa": "BZUN NXL3 66RW HSVP 6PB6 UA3D 5PVL SDTJ",
-          "createdAt": "2026-04-15T23:21:06.175Z"
-        }
-      ]
+      "data": []
     }
   },
   "currentSheet": "1"
