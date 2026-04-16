@@ -14,7 +14,15 @@
     },
     "AKUN": {
       "name": "AKUN",
-      "data": []
+      "data": [
+        {
+          "username": "ruthienellievera",
+          "password": "semut2",
+          "email": "ruthienellievera@YAHOO.COM",
+          "twofa": "",
+          "createdAt": "2026-04-16T16:26:50.407Z"
+        }
+      ]
     }
   },
   "currentSheet": "AKUN"
