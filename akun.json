@@ -2,15 +2,7 @@
   "sheets": {
     "1": {
       "name": "1",
-      "data": [
-        {
-          "username": "estellecarlacara",
-          "password": "semut2",
-          "email": "cgfsff10@gmail.com",
-          "twofa": "",
-          "createdAt": "2026-04-15T23:28:53.903Z"
-        }
-      ]
+      "data": []
     }
   },
   "currentSheet": "1"
