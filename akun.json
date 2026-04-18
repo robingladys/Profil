@@ -47,7 +47,15 @@
     },
     "clone": {
       "name": "clone",
-      "data": []
+      "data": [
+        {
+          "username": "franceslolitalesley",
+          "password": "semut2",
+          "email": "constanceaileenchristi@gmail2.gq",
+          "twofa": "JANO G3UJ TGP4 6EBR NKLJ M3P7 PATT 5T5T",
+          "createdAt": "2026-04-18T18:59:48.150Z"
+        }
+      ]
     }
   },
   "currentSheet": "clone"
