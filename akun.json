@@ -47,15 +47,7 @@
     },
     "clone": {
       "name": "clone",
-      "data": [
-        {
-          "username": "fran.ceslolitalesley",
-          "password": "semut2",
-          "email": "harriettlouisetara@gmail2.gq",
-          "twofa": "OFCP I6YC T73L QJLN GHUL LO7Y L2CX QFYO",
-          "createdAt": "2026-04-18T19:01:36.606Z"
-        }
-      ]
+      "data": []
     }
   },
   "currentSheet": "clone"
