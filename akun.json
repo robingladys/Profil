@@ -2,7 +2,15 @@
   "sheets": {
     "AKUN": {
       "name": "AKUN",
-      "data": []
+      "data": [
+        {
+          "username": "albertaelviralupegladiolus",
+          "password": "semut2",
+          "email": "lyn4lissaa@gmail.com",
+          "twofa": "3GYR YMFW 2BND JCNS 2J4Y IYWJ KWSJ YZYF",
+          "createdAt": "2026-04-22T08:08:16.881Z"
+        }
+      ]
     },
     "clone": {
       "name": "clone",
