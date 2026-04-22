@@ -6,20 +6,12 @@
     },
     "AKUN": {
       "name": "AKUN",
-      "data": [
-        {
-          "username": "jacquelynjanetroselavandula",
-          "password": "semut2",
-          "email": "krystaljessielucile@yahoo.com",
-          "twofa": "",
-          "createdAt": "2026-04-17T02:14:57.644Z"
-        }
-      ]
+      "data": []
     },
     "clone": {
       "name": "clone",
       "data": []
     }
   },
-  "currentSheet": "1"
+  "currentSheet": "AKUN"
 }
