@@ -18,7 +18,15 @@
     },
     "email": {
       "name": "email",
-      "data": []
+      "data": [
+        {
+          "username": "shannajosefashelia",
+          "password": "semut2",
+          "email": "shannajosefashelia@hotmail.com",
+          "twofa": "",
+          "createdAt": "2026-04-23T17:41:14.058Z"
+        }
+      ]
     }
   },
   "currentSheet": "email"
