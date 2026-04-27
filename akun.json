@@ -47,10 +47,6 @@
         }
       ]
     },
-    "clone": {
-      "name": "clone",
-      "data": []
-    },
     "email": {
       "name": "email",
       "data": [
