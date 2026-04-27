@@ -58,7 +58,11 @@
           "createdAt": "2026-04-23T17:41:14.058Z"
         }
       ]
+    },
+    "sessionbox": {
+      "name": "sessionbox",
+      "data": []
     }
   },
-  "currentSheet": "AKUN"
+  "currentSheet": "sessionbox"
 }
