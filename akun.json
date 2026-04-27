@@ -61,7 +61,15 @@
     },
     "sessionbox": {
       "name": "sessionbox",
-      "data": []
+      "data": [
+        {
+          "username": "robbierobertcarlene",
+          "password": "semut2",
+          "email": "drycutkekk@gmail.com",
+          "twofa": "AP7E 2F3Y KN5O PCYG YTZH U2SJ XLQD OPYF",
+          "createdAt": "2026-04-27T04:24:44.838Z"
+        }
+      ]
     }
   },
   "currentSheet": "sessionbox"
