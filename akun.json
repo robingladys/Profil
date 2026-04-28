@@ -18,13 +18,6 @@
           "createdAt": "2026-04-23T17:44:49.650Z"
         },
         {
-          "username": "lelabriannabeverlymagnolia",
-          "password": "semut2",
-          "email": "tegalr002@gmail.com",
-          "twofa": "FPBF JOJA NUAT RJDO 5AD6 IRER GEPD NLJZ",
-          "createdAt": "2026-04-25T00:15:14.211Z"
-        },
-        {
           "username": "tashaeulahazel",
           "password": "semut2",
           "email": "lyn4lissaa@gmail.com",
@@ -107,5 +100,5 @@
       ]
     }
   },
-  "currentSheet": "email"
+  "currentSheet": "AKUN"
 }
