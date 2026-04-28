@@ -94,7 +94,15 @@
     },
     "av3345533@gmail.com": {
       "name": "av3345533@gmail.com",
-      "data": []
+      "data": [
+        {
+          "username": "nadiamarlenechelsea",
+          "password": "semut2",
+          "email": "av3345533@gmail.com",
+          "twofa": "KH6T R6A2 JPTR SB6J WQTQ 4TKF T2GO QU3Q",
+          "createdAt": "2026-04-28T22:58:36.943Z"
+        }
+      ]
     }
   },
   "currentSheet": "av3345533@gmail.com"
