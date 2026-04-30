@@ -23,13 +23,6 @@
       "name": "email",
       "data": [
         {
-          "username": "stephaniejerivirginia",
-          "password": "semut2",
-          "email": "fggh2182@gmail.com",
-          "twofa": "TF3F PWAR K7O5 BJWY 4UEZ 67SB EVR5 BWGU",
-          "createdAt": "2026-04-23T17:41:14.058Z"
-        },
-        {
           "username": "merleleannshawna",
           "password": "semut2",
           "email": "fggh2182@gmail.com",
@@ -138,5 +131,5 @@
       ]
     }
   },
-  "currentSheet": "AKUN"
+  "currentSheet": "email"
 }
