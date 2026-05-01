@@ -99,7 +99,15 @@
     },
     "drycutkekk@gmail.com": {
       "name": "drycutkekk@gmail.com",
-      "data": []
+      "data": [
+        {
+          "username": "amparomeaganmichele",
+          "password": "semut2",
+          "email": "drycutkekk@gmail.com",
+          "twofa": "JK5S JAL3 VXD3 EMOU IGJC KJFC X5XS UBYL",
+          "createdAt": "2026-05-01T12:53:40.304Z"
+        }
+      ]
     }
   },
   "currentSheet": "drycutkekk@gmail.com"
