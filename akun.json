@@ -1,9 +1,5 @@
 {
   "sheets": {
-    "AKUN": {
-      "name": "AKUN",
-      "data": []
-    },
     "email": {
       "name": "email",
       "data": [
@@ -102,5 +98,5 @@
       ]
     }
   },
-  "currentSheet": "AKUN"
+  "currentSheet": "email"
 }
