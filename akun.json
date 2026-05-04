@@ -89,7 +89,15 @@
     },
     "Clonelyn4lissaa@gmail.com": {
       "name": "Clonelyn4lissaa@gmail.com",
-      "data": []
+      "data": [
+        {
+          "username": "shar.lenecherikrystal",
+          "password": "semut2",
+          "email": "lyn4lissaa@gmail.com",
+          "twofa": "QYBV VVAW 32WD XGOC M3VP 3IBG 7XZL XM35",
+          "createdAt": "2026-05-04T04:55:31.529Z"
+        }
+      ]
     }
   },
   "currentSheet": "Clonelyn4lissaa@gmail.com"
