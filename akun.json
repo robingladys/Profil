@@ -37,13 +37,6 @@
           "createdAt": "2026-04-27T04:27:50.854Z"
         },
         {
-          "username": "catalinaconstancelynne",
-          "password": "semut2",
-          "email": "fggh2182@gmail.com",
-          "twofa": "F7IN W5GQ IZXC WVDE GRGP N7YU NHQF U6TM",
-          "createdAt": "2026-04-27T04:29:04.614Z"
-        },
-        {
           "username": "tamiangelicaamy",
           "password": "semut2",
           "email": "fggh2182@gmail.com",
@@ -98,5 +91,5 @@
       ]
     }
   },
-  "currentSheet": "email"
+  "currentSheet": "sessionbox"
 }
