@@ -63,13 +63,6 @@
       "name": "av3345533@gmail.com",
       "data": [
         {
-          "username": "tamiwildalorraine",
-          "password": "semut2",
-          "email": "fggh2182@gmail.com",
-          "twofa": "Z35W 3EPA WNFK LDIP CIKC BAJD L3MR 74XX",
-          "createdAt": "2026-04-30T16:23:06.140Z"
-        },
-        {
           "username": "tammifaithchristina",
           "password": "semut2",
           "email": "fggh2182@gmail.com",
@@ -91,5 +84,5 @@
       ]
     }
   },
-  "currentSheet": "sessionbox"
+  "currentSheet": "av3345533@gmail.com"
 }
