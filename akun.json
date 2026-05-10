@@ -115,7 +115,15 @@
     },
     "cgfsff10@gmail.com": {
       "name": "cgfsff10@gmail.com",
-      "data": []
+      "data": [
+        {
+          "username": "annavictoria___a",
+          "password": "semut2",
+          "email": "cgfsff10@gmail.com",
+          "twofa": "4IEH Z7WU PYWI RU2Z M3FU H5X4 R5JB VIXQ",
+          "createdAt": "2026-05-10T01:47:30.398Z"
+        }
+      ]
     }
   },
   "currentSheet": "cgfsff10@gmail.com"
