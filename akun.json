@@ -86,7 +86,15 @@
     },
     "cgfsff10@gmail.com": {
       "name": "cgfsff10@gmail.com",
-      "data": []
+      "data": [
+        {
+          "username": "cleopatraetriello",
+          "password": "semut2",
+          "email": "cgfsff10@gmail.com",
+          "twofa": "UDKO 7EI5 ZHZ3 ODSH LNTC HWVT 7YFX 3KP6",
+          "createdAt": "2026-05-10T14:38:37.970Z"
+        }
+      ]
     }
   },
   "currentSheet": "cgfsff10@gmail.com"
