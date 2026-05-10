@@ -70,15 +70,7 @@
     },
     "lyn4lissaa@gmail.com": {
       "name": "lyn4lissaa@gmail.com",
-      "data": [
-        {
-          "username": "sharlenecherikrystal",
-          "password": "semut2",
-          "email": "lyn4lissaa@gmail.com",
-          "twofa": "WQCJ M6BA O24N AIF7 OZPX OTB5 VAWL KED2",
-          "createdAt": "2026-05-04T04:50:22.153Z"
-        }
-      ]
+      "data": []
     },
     "Clonelyn4lissaa@gmail.com": {
       "name": "Clonelyn4lissaa@gmail.com",
@@ -93,5 +85,5 @@
       ]
     }
   },
-  "currentSheet": "Clonelyn4lissaa@gmail.com"
+  "currentSheet": "lyn4lissaa@gmail.com"
 }
