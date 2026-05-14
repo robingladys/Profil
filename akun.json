@@ -54,7 +54,15 @@
     },
     "av3345533@gmail.com": {
       "name": "av3345533@gmail.com",
-      "data": []
+      "data": [
+        {
+          "username": "lorajoyalexandriatulipa",
+          "password": "semut2",
+          "email": "av3345533@gmail.com",
+          "twofa": "YXCG GHP2 F3TG PPPK DWFU 4J7D WXXO S74E",
+          "createdAt": "2026-05-14T00:26:21.890Z"
+        }
+      ]
     },
     "drycutkekk@gmail.com": {
       "name": "drycutkekk@gmail.com",
@@ -85,5 +93,5 @@
       ]
     }
   },
-  "currentSheet": "email"
+  "currentSheet": "av3345533@gmail.com"
 }
