@@ -2,22 +2,7 @@
   "sheets": {
     "email": {
       "name": "email",
-      "data": [
-        {
-          "username": "merleleannshawna",
-          "password": "semut2",
-          "email": "fggh2182@gmail.com",
-          "twofa": "ZDZ3 SMJN RA7U WTBB 2BX4 4FQW UE7N MGXA",
-          "createdAt": "2026-04-28T03:06:47.440Z"
-        },
-        {
-          "username": "angeliquenellietamara",
-          "password": "semut2",
-          "email": "tegalr002@gmail.com",
-          "twofa": "Q4IF XICW O4XJ M66A NX7N IEUD PVI2 5MA7",
-          "createdAt": "2026-04-28T13:08:47.678Z"
-        }
-      ]
+      "data": []
     },
     "sessionbox": {
       "name": "sessionbox",
@@ -49,27 +34,6 @@
           "email": "cgfsff10@gmail.com",
           "twofa": "LY5W DXDZ FC5G 2O6W GUE6 FZRC TKYC WNOZ",
           "createdAt": "2026-04-30T17:53:00.024Z"
-        },
-        {
-          "username": "amparomeaganmichele",
-          "password": "semut2",
-          "email": "drycutkekk@gmail.com",
-          "twofa": "JK5S JAL3 VXD3 EMOU IGJC KJFC X5XS UBYL",
-          "createdAt": "2026-05-15T12:12:17.405Z"
-        },
-        {
-          "username": "merleleannshawna",
-          "password": "semut2",
-          "email": "fggh2182@gmail.com",
-          "twofa": "ZDZ3 SMJN RA7U WTBB 2BX4 4FQW UE7N MGXA",
-          "createdAt": "2026-05-15T12:12:58.972Z"
-        },
-        {
-          "username": "angeliquenellietamara",
-          "password": "semut2",
-          "email": "tegalr002@gmail.com",
-          "twofa": "Q4IF XICW O4XJ M66A NX7N IEUD PVI2 5MA7",
-          "createdAt": "2026-05-15T12:13:14.564Z"
         }
       ]
     },
@@ -82,28 +46,9 @@
           "email": "av3345533@gmail.com",
           "twofa": "YXCG GHP2 F3TG PPPK DWFU 4J7D WXXO S74E",
           "createdAt": "2026-05-14T00:26:21.890Z"
-        },
-        {
-          "username": "heathercamillejohannatulipa",
-          "password": "semut2",
-          "email": "av3345533@gmail.com",
-          "twofa": "7ZC3 45N3 4WC2 BZ6Y W6BE AVP4 OL6T 626E",
-          "createdAt": "2026-05-14T00:29:25.690Z"
-        }
-      ]
-    },
-    "drycutkekk@gmail.com": {
-      "name": "drycutkekk@gmail.com",
-      "data": [
-        {
-          "username": "amparomeaganmichele",
-          "password": "semut2",
-          "email": "drycutkekk@gmail.com",
-          "twofa": "JK5S JAL3 VXD3 EMOU IGJC KJFC X5XS UBYL",
-          "createdAt": "2026-05-01T12:53:40.304Z"
         }
       ]
     }
   },
-  "currentSheet": "sessionbox"
+  "currentSheet": "email"
 }
