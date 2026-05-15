@@ -1,9 +1,5 @@
 {
   "sheets": {
-    "email": {
-      "name": "email",
-      "data": []
-    },
     "sessionbox": {
       "name": "sessionbox",
       "data": [
@@ -50,5 +46,5 @@
       ]
     }
   },
-  "currentSheet": "email"
+  "currentSheet": "sessionbox"
 }
