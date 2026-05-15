@@ -49,6 +49,13 @@
           "email": "cgfsff10@gmail.com",
           "twofa": "LY5W DXDZ FC5G 2O6W GUE6 FZRC TKYC WNOZ",
           "createdAt": "2026-04-30T17:53:00.024Z"
+        },
+        {
+          "username": "amparomeaganmichele",
+          "password": "semut2",
+          "email": "drycutkekk@gmail.com",
+          "twofa": "JK5S JAL3 VXD3 EMOU IGJC KJFC X5XS UBYL",
+          "createdAt": "2026-05-15T12:12:17.405Z"
         }
       ]
     },
@@ -84,5 +91,5 @@
       ]
     }
   },
-  "currentSheet": "email"
+  "currentSheet": "sessionbox"
 }
