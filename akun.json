@@ -16,13 +16,6 @@
           "email": "cgfsff10@gmail.com",
           "twofa": "DXZM 2MV4 VDQO HDK3 WYDV SDX2 P3UX NJCY",
           "createdAt": "2026-04-30T17:50:05.456Z"
-        },
-        {
-          "username": "joanjannaangela",
-          "password": "semut2",
-          "email": "cgfsff10@gmail.com",
-          "twofa": "LY5W DXDZ FC5G 2O6W GUE6 FZRC TKYC WNOZ",
-          "createdAt": "2026-04-30T17:53:00.024Z"
         }
       ]
     },
@@ -78,5 +71,5 @@
       "data": []
     }
   },
-  "currentSheet": "av3345533@gmail.com"
+  "currentSheet": "sessionbox"
 }
