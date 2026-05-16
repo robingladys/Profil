@@ -9,13 +9,6 @@
           "email": "fggh2182@gmail.com",
           "twofa": "YB7I I66Z KEYA BYCD BZTH TOTQ W4MF YSXA",
           "createdAt": "2026-04-27T05:11:50.928Z"
-        },
-        {
-          "username": "martamarisolalma",
-          "password": "semut2",
-          "email": "fggh2182@gmail.com",
-          "twofa": "AKZO Y23J 4A74 AJXT JIYD TR5C E22O PGBJ",
-          "createdAt": "2026-05-16T03:54:39.016Z"
         }
       ]
     },
@@ -64,5 +57,5 @@
       "data": []
     }
   },
-  "currentSheet": "av3345533@gmail.com"
+  "currentSheet": "sessionbox"
 }
