@@ -42,13 +42,6 @@
           "email": "av3345533@gmail.com",
           "twofa": "PATA 4XQK CIPI RUV5 2WLO SHYQ 34OY 6DEZ",
           "createdAt": "2026-05-17T08:35:26.114Z"
-        },
-        {
-          "username": "jenniferhelenimogene",
-          "password": "semut2",
-          "email": "cgfsff10@gmail.com",
-          "twofa": "TBLC W6OV K422 MSGN ESEL 3C23 PS4B AMFS",
-          "createdAt": "2026-05-18T04:26:13.880Z"
         }
       ]
     },
@@ -104,5 +97,5 @@
       ]
     }
   },
-  "currentSheet": "VPN"
+  "currentSheet": "av3345533@gmail.com"
 }
