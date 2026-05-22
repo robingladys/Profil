@@ -94,6 +94,13 @@
           "email": "vmvincent@theking.id",
           "twofa": "A6MV 6GBG APBU YAWU W4SB 7TOT J2ML EWZO",
           "createdAt": "2026-05-22T14:02:37.080Z"
+        },
+        {
+          "username": "Taliasancho",
+          "password": "semut2",
+          "email": "vmvincent@theking.id",
+          "twofa": "",
+          "createdAt": "2026-05-22T14:05:14.379Z"
         }
       ]
     }
