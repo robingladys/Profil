@@ -80,7 +80,15 @@
     },
     "generatoremail": {
       "name": "generatoremail",
-      "data": []
+      "data": [
+        {
+          "username": "pat_riciovilla",
+          "password": "semut2",
+          "email": "vmvincent@theking.id",
+          "twofa": "",
+          "createdAt": "2026-05-22T13:59:47.369Z"
+        }
+      ]
     }
   },
   "currentSheet": "generatoremail"
