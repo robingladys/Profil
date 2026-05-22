@@ -77,7 +77,11 @@
           "createdAt": "2026-05-18T04:50:14.912Z"
         }
       ]
+    },
+    "generatoremail": {
+      "name": "generatoremail",
+      "data": []
     }
   },
-  "currentSheet": "sessionbox"
+  "currentSheet": "generatoremail"
 }
