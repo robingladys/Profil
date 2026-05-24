@@ -25,18 +25,11 @@
           "createdAt": "2026-05-18T06:02:34.831Z"
         },
         {
-          "username": "shereesharonpearl",
+          "username": "corinagenasallie",
           "password": "semut2",
-          "email": "turuxballo@gmail.com",
-          "twofa": "",
-          "createdAt": "2026-05-21T01:41:41.311Z"
-        },
-        {
-          "username": "vmvincent2026",
-          "password": "semut2",
-          "email": "vmvincent@theking.id",
-          "twofa": "OEKF J2XW NLX4 6ZJL 3M2J FC4Z BWII PGXR",
-          "createdAt": "2026-05-22T13:57:13.034Z"
+          "email": "fggh2182@gmail.com",
+          "twofa": "B2BG V6EQ Z6UK 6VGL K5RX 535F AZMK 342Y",
+          "createdAt": "2026-05-24T15:37:01.845Z"
         }
       ]
     },
@@ -77,19 +70,7 @@
           "createdAt": "2026-05-18T04:50:14.912Z"
         }
       ]
-    },
-    "generatoremail": {
-      "name": "generatoremail",
-      "data": [
-        {
-          "username": "espinaaitana",
-          "password": "semut2",
-          "email": "av3345533@gmail.com",
-          "twofa": "YOU5 CDY6 G3JS RKUU DEXS 5FN5 OGYJ XUG6",
-          "createdAt": "2026-05-22T14:29:13.824Z"
-        }
-      ]
     }
   },
-  "currentSheet": "generatoremail"
+  "currentSheet": "sessionbox"
 }
