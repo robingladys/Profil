@@ -47,7 +47,15 @@
     },
     "Ndas": {
       "name": "Ndas",
-      "data": []
+      "data": [
+        {
+          "username": "magda_lenazoido",
+          "password": "semut2",
+          "email": "jaimesummerjamisyringa@gmail2.gq",
+          "twofa": "",
+          "createdAt": "2026-05-26T04:07:53.411Z"
+        }
+      ]
     }
   },
   "currentSheet": "Ndas"
