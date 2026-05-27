@@ -25,18 +25,6 @@
           "createdAt": "2026-05-25T03:53:27.425Z"
         }
       ]
-    },
-    "VPN": {
-      "name": "VPN",
-      "data": [
-        {
-          "username": "randikaramiriam",
-          "password": "semut2",
-          "email": "fggh2182@gmail.com",
-          "twofa": "46T3 YOQD X6M6 53KT VRQU XZIZ NUYY T4CW",
-          "createdAt": "2026-05-18T04:50:14.912Z"
-        }
-      ]
     }
   },
   "currentSheet": "sessionbox"
