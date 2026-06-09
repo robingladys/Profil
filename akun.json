@@ -16,13 +16,6 @@
       "name": "b",
       "data": [
         {
-          "username": "mitzililianapattyfreesia",
-          "password": "semut2",
-          "email": "turuxballo+ultragen@gmail.com",
-          "twofa": "MTD4 5CQD TIRP BH7Y 4PBQ FQNV ATRO TOJH",
-          "createdAt": "2026-06-07T16:50:05.937Z"
-        },
-        {
           "username": "lelializsofiapaeonia",
           "password": "semut2",
           "email": "cgfsff10+meeus@gmail.com",
@@ -32,5 +25,5 @@
       ]
     }
   },
-  "currentSheet": "sessionbox"
+  "currentSheet": "b"
 }
