@@ -23,6 +23,13 @@
           "email": "turuxballo+akun5@gmail.com",
           "twofa": "D4KN FDWT B7Y6 IDDY D27O IDMK Y4LW HIKO",
           "createdAt": "2026-06-09T00:45:01.116Z"
+        },
+        {
+          "username": "lorettaelviraroberta",
+          "password": "semut2",
+          "email": "turuxballo+akun6@gmail.com",
+          "twofa": "",
+          "createdAt": "2026-06-09T00:47:02.059Z"
         }
       ]
     }
