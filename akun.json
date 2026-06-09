@@ -14,15 +14,7 @@
     },
     "b": {
       "name": "b",
-      "data": [
-        {
-          "username": "lelializsofiapaeonia",
-          "password": "semut2",
-          "email": "cgfsff10+meeus@gmail.com",
-          "twofa": "QOSH 76YD MMID JQ5Q 6AKU XYCF ALE7 ZK6Z",
-          "createdAt": "2026-06-07T17:04:43.577Z"
-        }
-      ]
+      "data": []
     }
   },
   "currentSheet": "b"
