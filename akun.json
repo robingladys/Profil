@@ -25,7 +25,11 @@
           "createdAt": "2026-07-20T15:47:12.780Z"
         }
       ]
+    },
+    "threads": {
+      "name": "threads",
+      "data": []
     }
   },
-  "currentSheet": "sessionbox"
+  "currentSheet": "threads"
 }
