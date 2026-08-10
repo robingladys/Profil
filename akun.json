@@ -28,15 +28,7 @@
     },
     "threads": {
       "name": "threads",
-      "data": [
-        {
-          "username": "brianamadgecathleen",
-          "password": "semut2",
-          "email": "brianamadgecathleen@gmail2.gq",
-          "twofa": "K425 NUWP 66ZB GPIC JZV3 RTT3 P2NL NQLJ",
-          "createdAt": "2026-08-02T05:45:13.812Z"
-        }
-      ]
+      "data": []
     }
   },
   "currentSheet": "threads"
