@@ -28,7 +28,15 @@
     },
     "threads": {
       "name": "threads",
-      "data": []
+      "data": [
+        {
+          "username": "adelealexandraalisha",
+          "password": "semut2",
+          "email": "bottololocypus@gmail.com",
+          "twofa": "",
+          "createdAt": "2026-08-10T07:54:55.272Z"
+        }
+      ]
     }
   },
   "currentSheet": "threads"
