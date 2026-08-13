@@ -119,6 +119,13 @@
           "email": "bottololocypus@gmail.com",
           "twofa": "",
           "createdAt": "2026-08-13T06:44:19.956Z"
+        },
+        {
+          "username": "marcohirsch3",
+          "password": "semut2",
+          "email": "bottololocypus@gmail.com",
+          "twofa": "",
+          "createdAt": "2026-08-13T06:44:30.468Z"
         }
       ]
     }
