@@ -173,6 +173,13 @@
           "email": "bottololocypus@gmail.com",
           "twofa": "",
           "createdAt": "2026-08-13T06:45:53.675Z"
+        },
+        {
+          "username": "matzuthmana",
+          "password": "semut2",
+          "email": "bottololocypus@gmail.com",
+          "twofa": "",
+          "createdAt": "2026-08-13T06:46:00.932Z"
         }
       ]
     }
