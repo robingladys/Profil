@@ -77,6 +77,13 @@
           "email": "bottololocypus@gmail.com",
           "twofa": "",
           "createdAt": "2026-08-13T06:43:23.451Z"
+        },
+        {
+          "username": "bohm_timo",
+          "password": "semut2",
+          "email": "bottololocypus@gmail.com",
+          "twofa": "",
+          "createdAt": "2026-08-13T06:43:34.476Z"
         }
       ]
     }
