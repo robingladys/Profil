@@ -215,6 +215,13 @@
           "email": "bottololocypus@gmail.com",
           "twofa": "",
           "createdAt": "2026-08-13T06:46:47.275Z"
+        },
+        {
+          "username": "lukashitzig",
+          "password": "semut2",
+          "email": "bottololocypus@gmail.com",
+          "twofa": "",
+          "createdAt": "2026-08-13T06:46:55.355Z"
         }
       ]
     }
