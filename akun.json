@@ -428,6 +428,13 @@
           "email": "bottololocypus@gmail.com",
           "twofa": "",
           "createdAt": "2026-08-13T07:19:50.932Z"
+        },
+        {
+          "username": "cipriano.brandao",
+          "password": "semut2",
+          "email": "bottololocypus@gmail.com",
+          "twofa": "",
+          "createdAt": "2026-08-13T07:20:42.180Z"
         }
       ]
     }
