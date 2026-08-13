@@ -159,6 +159,13 @@
           "email": "bottololocypus@gmail.com",
           "twofa": "",
           "createdAt": "2026-08-13T06:45:34.140Z"
+        },
+        {
+          "username": "paulusholder",
+          "password": "semut2",
+          "email": "bottololocypus@gmail.com",
+          "twofa": "",
+          "createdAt": "2026-08-13T06:45:44.076Z"
         }
       ]
     }
