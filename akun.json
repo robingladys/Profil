@@ -269,6 +269,13 @@
           "email": "bottololocypus@gmail.com",
           "twofa": "",
           "createdAt": "2026-08-13T06:54:01.116Z"
+        },
+        {
+          "username": "pereichelbaum",
+          "password": "semut2",
+          "email": "bottololocypus@gmail.com",
+          "twofa": "",
+          "createdAt": "2026-08-13T06:54:53.827Z"
         }
       ]
     }
