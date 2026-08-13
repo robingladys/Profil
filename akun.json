@@ -180,6 +180,13 @@
           "email": "bottololocypus@gmail.com",
           "twofa": "",
           "createdAt": "2026-08-13T06:46:00.932Z"
+        },
+        {
+          "username": "gluck.linus",
+          "password": "semut2",
+          "email": "bottololocypus@gmail.com",
+          "twofa": "",
+          "createdAt": "2026-08-13T06:46:11.508Z"
         }
       ]
     }
