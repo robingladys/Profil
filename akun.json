@@ -126,6 +126,13 @@
           "email": "bottololocypus@gmail.com",
           "twofa": "",
           "createdAt": "2026-08-13T06:44:30.468Z"
+        },
+        {
+          "username": "sandrokrehl",
+          "password": "semut2",
+          "email": "bottololocypus@gmail.com",
+          "twofa": "",
+          "createdAt": "2026-08-13T06:44:41.268Z"
         }
       ]
     }
