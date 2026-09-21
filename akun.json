@@ -224,13 +224,6 @@
           "createdAt": "2026-08-13T06:47:06.812Z"
         },
         {
-          "username": "ernsthector4",
-          "password": "semut2",
-          "email": "bottololocypus@gmail.com",
-          "twofa": "",
-          "createdAt": "2026-08-13T06:47:47.476Z"
-        },
-        {
           "username": "florentinmacher",
           "password": "semut2",
           "email": "bottololocypus@gmail.com",
@@ -486,5 +479,5 @@
       ]
     }
   },
-  "currentSheet": "7-9-2026"
+  "currentSheet": "threads2"
 }
